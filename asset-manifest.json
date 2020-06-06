@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mon--rol/static/css/main.6c01dd76.chunk.css",
+    "main.js": "/react-mon--rol/static/js/main.5ec39d40.chunk.js",
+    "main.js.map": "/react-mon--rol/static/js/main.5ec39d40.chunk.js.map",
+    "runtime-main.js": "/react-mon--rol/static/js/runtime-main.995b5c96.js",
+    "runtime-main.js.map": "/react-mon--rol/static/js/runtime-main.995b5c96.js.map",
+    "static/js/2.7aaef059.chunk.js": "/react-mon--rol/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/react-mon--rol/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/react-mon--rol/index.html",
+    "precache-manifest.d73eb01f2bb2c0fb6dcedc181e112ebb.js": "/react-mon--rol/precache-manifest.d73eb01f2bb2c0fb6dcedc181e112ebb.js",
+    "service-worker.js": "/react-mon--rol/service-worker.js",
+    "static/css/main.6c01dd76.chunk.css.map": "/react-mon--rol/static/css/main.6c01dd76.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/react-mon--rol/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995b5c96.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.6c01dd76.chunk.css",
+    "static/js/main.5ec39d40.chunk.js"
+  ]
+}
